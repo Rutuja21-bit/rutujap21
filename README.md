@@ -1,3 +1,4 @@
+```
 // 👩‍💻 About Me
 const me = {
   name: "Rutuja",
@@ -5,6 +6,7 @@ const me = {
   focus: ["React", "Flask", "Machine Learning"],
   interests: ["UI Dev", "APIs", "Data Analysis", "AI"]
 };
+
 
 // 🛠 My Skills
 const skills = {
@@ -17,5 +19,6 @@ const skills = {
   database: ["MySQL"],
   tools: ["Jupyter", "Colab"]
 };
+```
 
 
