@@ -1,4 +1,4 @@
-```
+```Js
 // 👩‍💻 About Me
 const me = {
   name: "Rutuja",
@@ -11,7 +11,7 @@ const me = {
 // 🛠 My Skills
 const skills = {
   languages: ["Python", "C", "C++", "R"],
-  frontend: ["React (Hooks, Routing, State)"],
+  frontend: ["React"],
   backend: ["Flask (REST APIs, Middleware)"],
   dataViz: ["Power BI", "Matplotlib"],
   machineLearning: ["Classification", "Regression", "NLP"],
